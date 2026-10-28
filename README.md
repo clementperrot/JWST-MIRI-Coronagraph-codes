@@ -1,2 +1,4 @@
-# Imodex_JWST
-code related to JWST data reduction for the IMODEX team
+# JWST/MIRI Coronagraph codes
+Codes related to JWST/MIRI data reduction and post-processing for the Exoplanetary Systems team at Paris Observatory/LIRA
+
+
