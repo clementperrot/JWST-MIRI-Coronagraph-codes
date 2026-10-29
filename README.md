@@ -1,7 +1,20 @@
 # JWST/MIRI Coronagraph codes
 Codes related to JWST/MIRI data reduction and post-processing for the Exoplanetary Systems team at Paris Observatory/LIRA
 
-## Files description :
+## Directories and Files description :
+
+- Background_analysis : codes for JWST/MIRI background analysis (coronagraph) - Work in progress
+	
+- Development : Divers codes I'm working on - Work in progress
+
+- Module : Finalized codes than can be import
+	
+- Notebook_proposal : Divers codes for JWST proposals
+	
+- Notebook_target : Notebook for data reduction and post-processing for specific targets, could be outdated
+
+
+Short description of finished codes and modules :
 
 *obs_information.ipynb :*
 
